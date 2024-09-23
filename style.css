@@ -1,0 +1,38 @@
+.head{
+    text-align: center;
+    margin-top: 5%;
+}
+.login-part{
+    margin: 6% 10%;
+    padding: 5%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+#transaction{
+    display: none;
+}
+.deposit{
+    background-color: slateblue;
+}
+.withdraw{
+    background-color: lightsalmon;
+}
+.balance{
+    background-color: orange;
+}
+.balance, .deposit, .withdraw{
+    padding: 20px;
+    text-align: center;
+    margin: 10px 50px;
+    color: white;
+    border-radius: 10px;
+}
+.last-part{
+    margin: 10%;
+}
+.amount{
+    padding: 10%;
+    margin: 0 10px;
+    box-shadow: 5px 5px 10px lightgray;
+    border-radius: 10px;
+}
